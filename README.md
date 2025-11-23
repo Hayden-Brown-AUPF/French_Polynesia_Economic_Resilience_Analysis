@@ -38,7 +38,7 @@ This report doesn't just identify problems—it charts a path forward.
 
 ---
 
-## 📊 [**Read the Full Analysis →**](https://hayden-brown-aupf.github.io/French_Polynesia_Economic_Resilience_Analysis/)
+## 📊 **Read the Full Analysis →** [https://hayden-brown-aupf.github.io/French_Polynesia_Economic_Resilience_Analysis/](https://hayden-brown-aupf.github.io/French_Polynesia_Economic_Resilience_Analysis/)
 
 *Comprehensive report featuring interactive visualizations, detailed trade analysis, and strategic recommendations for policymakers, economists, and stakeholders.*
 
@@ -54,3 +54,4 @@ This independent economic assessment combines official trade statistics, demogra
 ---
 
 *If you find this analysis valuable, please ⭐ star this repository and share with others interested in Pacific economics and island nation resilience.*
+
